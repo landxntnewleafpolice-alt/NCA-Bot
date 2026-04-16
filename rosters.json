@@ -1,0 +1,429 @@
+{
+    "1485024634540785855": [
+        {
+            "id": "1443104986669252639",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283202,
+            "warned": false
+        },
+        {
+            "id": "1138776379861770281",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128323,
+            "warned": false
+        },
+        {
+            "id": "1295584501115785271",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283233,
+            "warned": false
+        },
+        {
+            "id": "1394000899398963241",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283236,
+            "warned": false
+        },
+        {
+            "id": "1256727679810666620",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776307358.8271446,
+            "warned": false
+        },
+        {
+            "id": "1130677790061109280",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776309903.99013,
+            "warned": false
+        },
+        {
+            "id": "1102002034418397305",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776309917.8349133,
+            "warned": false
+        },
+        {
+            "id": "1190052845064568952",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776309946.4789734,
+            "warned": false
+        },
+        {
+            "id": "987372962254573588",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776309974.893575,
+            "warned": false
+        },
+        {
+            "id": "1460770151581352170",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776309987.321317,
+            "warned": false
+        },
+        {
+            "id": "1426661079244865708",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776310078.42476,
+            "warned": false
+        },
+        {
+            "id": "1380293405573386311",
+            "salary": 20,
+            "contract": "ROS",
+            "signed_at": 1776310090.4159021,
+            "warned": false
+        }
+    ],
+    "1485337842350690355": [
+        {
+            "id": "1453804778533552139",
+            "salary": 15,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283245,
+            "warned": false
+        },
+        {
+            "id": "1366207148421414993",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283247,
+            "warned": false
+        },
+        {
+            "id": "1208849658265341965",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283252,
+            "warned": false
+        },
+        {
+            "id": "1248471983570681961",
+            "salary": 30,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283252,
+            "warned": false
+        },
+        {
+            "id": "1226404312591110304",
+            "salary": 30,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283255,
+            "warned": false
+        },
+        {
+            "id": "1235759953562701884",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283255,
+            "warned": false
+        },
+        {
+            "id": "999369079813058703",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283257,
+            "warned": false
+        },
+        {
+            "id": "1421547070912991364",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128326,
+            "warned": false
+        },
+        {
+            "id": "738301576585805839",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128326,
+            "warned": false
+        },
+        {
+            "id": "1260325180237025284",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128326,
+            "warned": false
+        }
+    ],
+    "1492653202347135028": [
+        {
+            "id": "1264674913491357717",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283264,
+            "warned": false
+        },
+        {
+            "id": "1256820011901784084",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283264,
+            "warned": false
+        }
+    ],
+    "1485022221297647810": [
+        {
+            "id": "1225583650192494607",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283267,
+            "warned": false
+        },
+        {
+            "id": "870088981730181170",
+            "salary": 15,
+            "contract": "ROS",
+            "signed_at": 1776304627.128327,
+            "warned": false
+        }
+    ],
+    "1485459759741145209": [
+        {
+            "id": "1289679291805732966",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283271,
+            "warned": false
+        },
+        {
+            "id": "1208639286803697665",
+            "salary": 30,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283274,
+            "warned": false
+        },
+        {
+            "id": "1332895493621158014",
+            "salary": 30,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283274,
+            "warned": false
+        },
+        {
+            "id": "596060490124230774",
+            "salary": 45,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283276,
+            "warned": false
+        },
+        {
+            "id": "1270557984656855042",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283276,
+            "warned": false
+        }
+    ],
+    "1485461608573702247": [
+        {
+            "id": "793312779859656736",
+            "salary": 10,
+            "contract": "6-7",
+            "signed_at": 1776304722.4285133,
+            "warned": false
+        }
+    ],
+    "1485035610233376848": [
+        {
+            "id": "1320513145365729362",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283278,
+            "warned": false
+        },
+        {
+            "id": "1269768128817266708",
+            "salary": 15,
+            "contract": "ROS",
+            "signed_at": 1776310125.9954126,
+            "warned": false
+        },
+        {
+            "id": "877935310170914857",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776310194.0921328,
+            "warned": false
+        },
+        {
+            "id": "1433138079769559150",
+            "salary": 20,
+            "contract": "ROS",
+            "signed_at": 1776310363.5816734,
+            "warned": false
+        },
+        {
+            "id": "1322344563301683330",
+            "salary": 10,
+            "contract": "ROS",
+            "signed_at": 1776310543.4965184,
+            "warned": false
+        },
+        {
+            "id": "1484661997458165770",
+            "salary": 15,
+            "contract": "ROS",
+            "signed_at": 1776310954.5658824,
+            "warned": false
+        },
+        {
+            "id": "1136030910534385865",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776311027.6869335,
+            "warned": false
+        },
+        {
+            "id": "1424253551298871326",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776311053.492979,
+            "warned": false
+        }
+    ],
+    "1485099668793856000": [
+        {
+            "id": "1411080976381116529",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128328,
+            "warned": false
+        },
+        {
+            "id": "1397081352192655380",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283286,
+            "warned": false
+        },
+        {
+            "id": "1476740451074576518",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283286,
+            "warned": false
+        },
+        {
+            "id": "1317266382722957312",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283288,
+            "warned": false
+        },
+        {
+            "id": "1395796037729386547",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283288,
+            "warned": false
+        },
+        {
+            "id": "1420119675869728970",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.128329,
+            "warned": false
+        },
+        {
+            "id": "1031694658243407952",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283293,
+            "warned": false
+        },
+        {
+            "id": "1490572040091205684",
+            "salary": 15,
+            "contract": "whole szn",
+            "signed_at": 1776304660.7960672,
+            "warned": false
+        },
+        {
+            "id": "1362164720693674146",
+            "salary": 15,
+            "contract": "whole szn",
+            "signed_at": 1776304699.8470542,
+            "warned": false
+        },
+        {
+            "id": "1398319860198674643",
+            "salary": 5,
+            "contract": "whole szn",
+            "signed_at": 1776304763.6329625,
+            "warned": false
+        },
+        {
+            "id": "1477864965149949983",
+            "salary": 5,
+            "contract": "whole szn",
+            "signed_at": 1776306925.2928443,
+            "warned": false
+        },
+        {
+            "id": "1064185540653621268",
+            "salary": 5,
+            "contract": "whole szn",
+            "signed_at": 1776307011.0142314,
+            "warned": false
+        },
+        {
+            "id": "1190464277795057796",
+            "salary": 5,
+            "contract": "whole szn",
+            "signed_at": 1776307028.0898123,
+            "warned": false
+        },
+        {
+            "id": "1390544059583696908",
+            "salary": 5,
+            "contract": "whole szn",
+            "signed_at": 1776307041.6700404,
+            "warned": false
+        }
+    ],
+    "1485391574740504598": [
+        {
+            "id": "622221536564215818",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283293,
+            "warned": false
+        },
+        {
+            "id": "914016963058106398",
+            "salary": 5,
+            "contract": "ROS",
+            "signed_at": 1776304627.1283295,
+            "warned": false
+        }
+    ],
+    "1485339739417477120": [
+        {
+            "id": "1278140481284608044",
+            "salary": 10,
+            "contract": "8 games",
+            "signed_at": 1776306956.494131,
+            "warned": false
+        },
+        {
+            "id": "1476732242322657465",
+            "salary": 10,
+            "contract": "gm",
+            "signed_at": 1776306993.7826252,
+            "warned": false
+        }
+    ],
+    "1485048370589597849": []
+}
